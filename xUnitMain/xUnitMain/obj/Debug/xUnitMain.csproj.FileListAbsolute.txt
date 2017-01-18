@@ -1,0 +1,9 @@
+D:\TWM Projects\BioTronik\x64\xUnitMain\xUnitMain\bin\Debug\xUnitMain.exe.config
+D:\TWM Projects\BioTronik\x64\xUnitMain\xUnitMain\bin\Debug\xUnitMain.exe
+D:\TWM Projects\BioTronik\x64\xUnitMain\xUnitMain\bin\Debug\xUnitMain.pdb
+D:\TWM Projects\BioTronik\x64\xUnitMain\xUnitMain\obj\Debug\xUnitMain.csprojResolveAssemblyReference.cache
+D:\TWM Projects\BioTronik\x64\xUnitMain\xUnitMain\obj\Debug\xUnitMain.exe
+D:\TWM Projects\BioTronik\x64\xUnitMain\xUnitMain\obj\Debug\xUnitMain.pdb
+C:\Users\Desmond\Desktop\xUnit\xUnitMain\xUnitMain\bin\Debug\xUnitMain.exe.config
+C:\Users\Desmond\Desktop\xUnit\xUnitMain\xUnitMain\obj\Debug\xUnitMain.exe
+C:\Users\Desmond\Desktop\xUnit\xUnitMain\xUnitMain\obj\Debug\xUnitMain.pdb

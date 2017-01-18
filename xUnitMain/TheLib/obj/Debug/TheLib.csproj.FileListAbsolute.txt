@@ -1,0 +1,15 @@
+D:\TWM Projects\BioTronik\x64\xUnitMain\TheLib\obj\Debug\TheLib.csprojResolveAssemblyReference.cache
+C:\Users\Desmond\Desktop\xUnit\xUnitMain\TheLib\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Desmond\Desktop\xUnit\xUnitMain\TheLib\bin\Debug\TheLib.dll
+C:\Users\Desmond\Desktop\xUnit\xUnitMain\TheLib\bin\Debug\TheLib.pdb
+C:\Users\Desmond\Desktop\xUnit\xUnitMain\TheLib\bin\Debug\xunit.abstractions.dll
+C:\Users\Desmond\Desktop\xUnit\xUnitMain\TheLib\bin\Debug\xunit.assert.dll
+C:\Users\Desmond\Desktop\xUnit\xUnitMain\TheLib\bin\Debug\xunit.core.dll
+C:\Users\Desmond\Desktop\xUnit\xUnitMain\TheLib\bin\Debug\xunit.abstractions.xml
+C:\Users\Desmond\Desktop\xUnit\xUnitMain\TheLib\bin\Debug\xunit.assert.pdb
+C:\Users\Desmond\Desktop\xUnit\xUnitMain\TheLib\bin\Debug\xunit.assert.xml
+C:\Users\Desmond\Desktop\xUnit\xUnitMain\TheLib\bin\Debug\xunit.core.pdb
+C:\Users\Desmond\Desktop\xUnit\xUnitMain\TheLib\bin\Debug\xunit.core.xml
+C:\Users\Desmond\Desktop\xUnit\xUnitMain\TheLib\obj\Debug\TheLib.csprojResolveAssemblyReference.cache
+C:\Users\Desmond\Desktop\xUnit\xUnitMain\TheLib\obj\Debug\TheLib.dll
+C:\Users\Desmond\Desktop\xUnit\xUnitMain\TheLib\obj\Debug\TheLib.pdb
