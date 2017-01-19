@@ -1,0 +1,5 @@
+C:\Users\Desmond\Desktop\xUnit\xUnitMain\MethodLibrary\bin\Debug\MethodLibrary.dll
+C:\Users\Desmond\Desktop\xUnit\xUnitMain\MethodLibrary\bin\Debug\MethodLibrary.pdb
+C:\Users\Desmond\Desktop\xUnit\xUnitMain\MethodLibrary\obj\Debug\MethodLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Desmond\Desktop\xUnit\xUnitMain\MethodLibrary\obj\Debug\MethodLibrary.dll
+C:\Users\Desmond\Desktop\xUnit\xUnitMain\MethodLibrary\obj\Debug\MethodLibrary.pdb

@@ -7,3 +7,8 @@ D:\TWM Projects\BioTronik\x64\xUnitMain\xUnitMain\obj\Debug\xUnitMain.pdb
 C:\Users\Desmond\Desktop\xUnit\xUnitMain\xUnitMain\bin\Debug\xUnitMain.exe.config
 C:\Users\Desmond\Desktop\xUnit\xUnitMain\xUnitMain\obj\Debug\xUnitMain.exe
 C:\Users\Desmond\Desktop\xUnit\xUnitMain\xUnitMain\obj\Debug\xUnitMain.pdb
+C:\Users\Desmond\Desktop\xUnit\xUnitMain\xUnitMain\bin\Debug\xUnitMain.exe
+C:\Users\Desmond\Desktop\xUnit\xUnitMain\xUnitMain\bin\Debug\xUnitMain.pdb
+C:\Users\Desmond\Desktop\xUnit\xUnitMain\xUnitMain\obj\Debug\xUnitMain.csprojResolveAssemblyReference.cache
+C:\Users\Desmond\Desktop\xUnit\xUnitMain\xUnitMain\bin\Debug\MethodLibrary.dll
+C:\Users\Desmond\Desktop\xUnit\xUnitMain\xUnitMain\bin\Debug\MethodLibrary.pdb
